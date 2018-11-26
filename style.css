@@ -1,0 +1,9 @@
+body { max-width: 70em; }
+div.author { color: gray;
+	     font-size: smaller;
+	     text-align: right;
+	   }
+figure img { width: 90%; min-width: 300px; }
+figcaption { font-style: italic; font-size: smaller;}
+.highlight { background-color: yellow; }
+.highlight em { font-color: red; }

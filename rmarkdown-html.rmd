@@ -1,0 +1,26 @@
+---
+title: "Latest News"
+output:
+  html_document:
+    css: style.css
+---
+
+# US border guards firing tear gas at migrants
+
+On Sunday, the US-Mexican border was _closed_
+for <span class="highlight">several hours</span>
+as
+migrants attempted to find their
+way across the border into the US</p>
+
+![US border guards firing teargas at migrants](teargas.jpg)
+
+  The migrants have become a political tools in Tijuana too:
+
+> The people of Tijuana will not pay for the stay of these
+> migrants. I will not send Tijuana into debt, just like I have been
+> able to avoid the last two years,
+
+said Tijuana mayor Juan Manuel Gastélum Buenrostro.
+  
+* [CNN](https://www.cnn.com/) coverage
